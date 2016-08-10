@@ -1,5 +1,5 @@
 # tf-midi-id
-TensorFlow Neural Net to classify midi files.
+Proof of concept TensorFlow Neural Net to classify midi files.
 Based on the [fully connected MNIST example](https://github.com/tensorflow/tensorflow/blob/r0.8/tensorflow/examples/tutorials/mnist/fully_connected_feed.py) from TensorFlow.
 
 Reads MIDI files in [midicsv](http://www.fourmilab.ch/webtools/midicsv/) format.
